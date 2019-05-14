@@ -1,0 +1,14 @@
+Image Name,LesionCore,LesionEdge,PPWM
+1_6_Active_9,Active Core,,Active Periplaque
+2_5_Mixed Active Inactive 1_6,SEL Core,SEL Edge,SEL Periplaque
+2_5_Mixed Active Inactive 2_8,SEL Core,SEL Edge,SEL Periplaque
+3_2_Mixed Active Inactive_4,SEL Core,SEL Edge,SEL Periplaque
+4_1_Chronic Inactive_1,Active Core,,Active Periplaque
+AB129 CR4A Brain MS20190215_2 Active_7,SEL Core,SEL Edge,
+AB129 CR4A Brain MS20190215_4 Active Confluent _3,Active Core,,
+AB129 CR4A Brain MS20190215_8 normal appearing_5,,,NAWM
+AB129 CR4A Brain MS20190215_Active Confluent_2,Active Core,,
+AB129 CR4A Brain MS20190216_1 Preactive_10,Preactive,,
+AB129 CR4A Brain MS20190216_5 Active_11,Active Core,,
+AB129 CR4A Brain MS20190216_6 Chronic Inactive_8,SEL Core,SEL Edge,
+Pano 01_1_ROI 02_2,,,WMC
